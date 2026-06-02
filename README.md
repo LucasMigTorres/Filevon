@@ -1,7 +1,12 @@
+# Fileon
 Fileon is a simple shortcut manager meant to make access to your favorite files and apps convenient.
+Add the directories your frequently used items to the app for ease of access
 
 # Installation
 Currently, Fileon is only available for Windows 11.
+
+There is no setup process, as the only required download is the executable.
+
 Because this application is an exe, Windows is likely to flag it as suspicious.
 
 # Usage
