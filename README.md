@@ -31,6 +31,11 @@ Settings:
 
 <img width="1580" height="1064" alt="Screenshot 2026-06-01 201952" src="https://github.com/user-attachments/assets/a2edc8a4-f123-4532-be79-0e773b593527" />
 
+# Credits
+Custom Title Bar class borrowed from PythonGUIs.
+
+SideGrip class borrowed from Stack Overflow.
+
 # Screenshots
 <br>
 Default theme
