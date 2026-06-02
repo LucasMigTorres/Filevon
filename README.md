@@ -4,19 +4,14 @@ Fileon is a simple shortcut manager meant to make access to your favorite files 
 # Screenshots
 ---
 Default theme
-<img width="1579" height="1071" alt="Screenshot 2026-06-01 201655" src="https://github.com/user-attachments/assets/48e86c85-0cd7-4a45-99ca-05c0c6dd0873" />
+<img width="1579" height="1071" alt="Screenshot 2026-06-01 201655" src="https://github.com/user-attachments/assets/52123f29-e27a-4eb6-a5a9-c9e8116c5087" />
 
 Dark theme
-<img width="1573" height="1060" alt="Screenshot 2026-06-01 202900" src="https://github.com/user-attachments/assets/b9f12e03-43de-4f9e-bb88-4d55f73ac60e" />
+<img width="1573" height="1060" alt="Screenshot 2026-06-01 202900" src="https://github.com/user-attachments/assets/30381731-0e23-49f7-9101-8baa5d05a0c8" />
 
 Light theme
-<img width="1571" height="1053" alt="Screenshot 2026-06-01 202917" src="https://github.com/user-attachments/assets/28da2f14-7c62-484a-9490-4247bed962b7" />
-
-
-Pages to manage folder, file, and apps shortcuts within the application
-<img width="1579" height="1065" alt="Screenshot 2026-06-01 201750" src="https://github.com/user-attachments/assets/1ecc97de-0a33-40db-b6eb-d013fdcd4f54" />
-<img width="1571" height="1057" alt="Screenshot 2026-06-01 201917" src="https://github.com/user-attachments/assets/2cb0bf6c-c483-441f-8df4-3e229377e958" />
-<img width="1577" height="1064" alt="Screenshot 2026-06-01 201834" src="https://github.com/user-attachments/assets/35ee0d28-c4f8-4bb2-ad6d-c66b4d607564" />
+<img width="1571" height="1053" alt="Screenshot 2026-06-01 202917" src="https://github.com/user-attachments/assets/5b96c14b-9c9a-4371-b26c-f7b022ac661c" />
 
 Settings page
-<img width="1580" height="1064" alt="Screenshot 2026-06-01 201952" src="https://github.com/user-attachments/assets/741ee416-9f19-4147-a5ad-400a2278509b" />
+<img width="1580" height="1064" alt="Screenshot 2026-06-01 201952" src="https://github.com/user-attachments/assets/a2edc8a4-f123-4532-be79-0e773b593527" />
+
