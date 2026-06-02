@@ -4,8 +4,17 @@ Fileon is a simple shortcut manager meant to make access to your favorite files 
 Currently, Fileon is only available for Windows 11.
 Because this application is an exe, Windows is likely to flag it as suspicious.
 
+# Usage
+To add folder, file, or app shortcuts, navigate to the page corresponding with the desired shortcut, press add, and navigate to the desired item.
+Within each page, right-clicking on a list item will present the option to either rename or remove it.
+
+Available settings include:
+- Show or hide the directory of items associated with selected shortcuts
+- Enable or disable fixed window sizing
+- Selection of available window sizes if Fixed Window Size is enabled
+- Selection of available themes
+
 # Screenshots
----
 Default theme
 <img width="1579" height="1071" alt="Screenshot 2026-06-01 201655" src="https://github.com/user-attachments/assets/52123f29-e27a-4eb6-a5a9-c9e8116c5087" />
 
