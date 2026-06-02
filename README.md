@@ -15,7 +15,7 @@ To add folder, file, or app shortcuts, navigate to the corresponding page, press
 Within each page, right-clicking on a list item will present the option to either rename or remove it.
 Individual items can be manually sorted by holding left-click over the selected item and dragging it.
 
-*Note: Shortcuts can only be added and manipulated from their respective page. They cannot be modified from the home page.*
+*Shortcuts can only be managed from their respective page. They cannot be modified from the home page.*
 
 # Features
 Settings:
@@ -23,16 +23,20 @@ Settings:
 - Enable or disable fixed window sizing
 - Selection of available window sizes if Fixed Window Size is enabled
 - Selection of available themes (Currently available themes: Default, Dark, Light)
-<img width="1580" height="1064" alt="Screenshot 2026-06-01 201952" src="https://github.com/user-attachments/assets/a2edc8a4-f123-4532-be79-0e773b593527" />
 
-*Note: Currently, internet shortcuts for apps or games will not display their icons in Fileon*
+*Currently, files such as internet shortcuts (.url files) will not display their icons in Fileon.*
+
+*Some app shortcuts (such as Discord) are not connected directly to their executables.*
+*In these instances, when adding an application, you must navigate to the directory of the target app and add the executable directly.*
+
+<img width="1580" height="1064" alt="Screenshot 2026-06-01 201952" src="https://github.com/user-attachments/assets/a2edc8a4-f123-4532-be79-0e773b593527" />
 
 # Screenshots
 <br>
 Default theme
 <br>
 <br>
-<img width="1579" height="1071" alt="Screenshot 2026-06-01 201655" src="https://github.com/user-attachments/assets/52123f29-e27a-4eb6-a5a9-c9e8116c5087" />
+<img width="1563" height="1056" alt="Screenshot 2026-06-02 152623" src="https://github.com/user-attachments/assets/3fba34f6-7b82-4ed9-830b-cdc8daa5937b" />
 <br>
 <br>
 Dark theme
