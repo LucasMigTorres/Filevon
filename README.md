@@ -1,3 +1,5 @@
+<img width="1500" height="310" alt="Fileon Banner" src="https://github.com/user-attachments/assets/793f7168-86f5-4ea0-b9be-90bb7ec8470d" />
+
 # Fileon
 Fileon is a simple shortcut manager intended to make access to your favorite files and apps convenient.
 Add the directories of your frequently used items to the app for ease of access.
