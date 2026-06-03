@@ -1,12 +1,12 @@
-<img width="1500" height="310" alt="Fileon Banner" src="https://github.com/user-attachments/assets/793f7168-86f5-4ea0-b9be-90bb7ec8470d" />
+<img width="1500" height="310" alt="Filevon Banner" src="https://github.com/user-attachments/assets/25445fb5-7d0d-4a8a-afd2-cf66ee6340c5" />
 
-# Fileon
-Fileon is a simple shortcut manager intended to make access to your favorite files and apps convenient.
+# Filevon
+Filevon is a simple shortcut manager intended to make access to your favorite files and apps convenient.
 Add the directories of your frequently used items to the app for ease of access.
 Folders, files, and apps are separated into three lists and can be manually sorted within each.
 
 # Installation
-Currently, Fileon is only available for Windows 11. Support for other operating systems may be implemented in the future.
+Currently, Filevon is only available for Windows 11. Support for other operating systems may be implemented in the future.
 
 There is no setup process, as the only download required for the app to work is the exe.
 
@@ -26,7 +26,7 @@ Settings:
 - Selection of available window sizes if Fixed Window Size is enabled
 - Selection of available themes (Currently available themes: Default, Dark, Light)
 
-*Currently, files such as internet shortcuts (.url files) will not display their icons in Fileon.*
+*Currently, files such as internet shortcuts (.url files) will not display their icons in Filevon.*
 
 *Some app shortcuts (such as Discord) are not connected directly to their executables.*
 *In these instances, when adding an application, you must navigate to the directory of the target app and add the executable directly.*
