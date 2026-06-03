@@ -1,3 +1,5 @@
+<img width="1500" height="310" alt="Fileon Banner" src="https://github.com/user-attachments/assets/793f7168-86f5-4ea0-b9be-90bb7ec8470d" />
+
 # Fileon
 Fileon is a simple shortcut manager intended to make access to your favorite files and apps convenient.
 Add the directories of your frequently used items to the app for ease of access.
@@ -30,6 +32,11 @@ Settings:
 *In these instances, when adding an application, you must navigate to the directory of the target app and add the executable directly.*
 
 <img width="1580" height="1064" alt="Screenshot 2026-06-01 201952" src="https://github.com/user-attachments/assets/a2edc8a4-f123-4532-be79-0e773b593527" />
+
+# Credits
+Custom Title Bar class borrowed from PythonGUIs.
+
+SideGrip class borrowed from Stack Overflow.
 
 # Screenshots
 <br>
