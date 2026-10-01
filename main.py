@@ -1,5 +1,6 @@
 # Standard library imports
 import os
+import ctypes
 from pathlib import Path
 from functools import partial
 
@@ -137,7 +138,7 @@ class Manager(QWidget):
         self.cornerGrips = [QSizeGrip(self.container) for _ in range(4)]
 
         # Restore settings from previous session
-        self.settings = QtCore.QSettings("Lucas Torres", "Fileon")
+        self.settings = QtCore.QSettings("Lucas T", "Filevon")
         self.read_settings()
 
     # Home page
@@ -1638,7 +1639,13 @@ class Manager(QWidget):
     @staticmethod
     def open_item(item):
         path = item.data(QtCore.Qt.ItemDataRole.UserRole)
-        QDesktopServices.openUrl(QtCore.QUrl.fromLocalFile(path))
+
+        if path.lower().endswith(".exe"):
+            # Reset DLL search path to default order to prevent temp file deletion errors
+            ctypes.windll.kernel32.SetDllDirectoryW(None)
+            QtCore.QProcess.startDetached(path, [])
+        else:
+            QDesktopServices.openUrl(QtCore.QUrl.fromLocalFile(path))
 
     # Sync corresponding list in home with edited list
     @staticmethod
