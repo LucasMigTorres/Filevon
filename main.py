@@ -1124,7 +1124,7 @@ class Manager(QWidget):
 
     def browse_apps(self):
         home_dir = os.path.expanduser("~")
-        app_path = QFileDialog.getOpenFileName(self, "Open App", home_dir, "Apps (*.exe *.url)")[0]
+        app_path = QFileDialog.getOpenFileName(self, "Open App", home_dir, "Apps (*.exe *.url *.jar)")[0]
 
         info = QtCore.QFileInfo(app_path)
         icon = QFileIconProvider().icon(info)
