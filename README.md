@@ -31,8 +31,6 @@ Settings:
 *Some app shortcuts (such as Discord) are not connected directly to their executables.*
 *In these instances, when adding an application, you must navigate to the directory of the target app and add the executable directly.*
 
-*Temporary files created by the app may sometimes not be deleted upon closing the main application window. This bug will be patched in the near future.*
-
 <img width="1580" height="1064" alt="Screenshot 2026-06-01 201952" src="https://github.com/user-attachments/assets/a2edc8a4-f123-4532-be79-0e773b593527" />
 
 # Credits
